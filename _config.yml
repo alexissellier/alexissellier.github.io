@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  alexissellier
 domain: 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
