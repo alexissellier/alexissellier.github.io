@@ -1,10 +1,10 @@
 
-title: Blog
-email: your-email@example.com
+title: ops n pops
+email: contact@opsnpops.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog from a devops that has been quiet for too many times
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.opsnpops.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.opsnpops.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: blog.opsnpops.io
 github_username:  alexissellier
 
